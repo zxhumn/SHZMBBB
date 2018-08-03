@@ -1,4 +1,4 @@
-# habbb
+# 02.first
 
 ## Project setup
 ```
