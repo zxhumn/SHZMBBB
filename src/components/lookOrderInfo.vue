@@ -8,7 +8,7 @@
                             <div class="location">
                                 <span>当前位置：</span>
                                 <router-link to="/index">首页</router-link>&gt;
-                                <router-link to="/personalCenter">会员中心</router-link>
+                                <router-link to="/personalCenter">会员中心</router-link>&gt;
                                 <a href="#/site/member/orderlist" class="">我的订单</a>
                             </div>
                         </div>
